@@ -1,34 +1,3 @@
 # Media Queries
 
-@media only screen and (max-width: 1340px) {
-}
-
-@media only screen and (max-width: 1139px) {
-}
-
-@media only screen and (max-width: 1023px) {
-}
-
-@media only screen and (max-width: 980px) {
-}
-
-@media only screen and (max-width: 800px) {
-}
-
-@media only screen and (max-width: 767px) {
-}
-
-@media only screen and (max-width: 640px) {
-}
-
-@media only screen and (max-width: 600px) {
-}
-
-@media only screen and (max-width: 480px) {
-}
-
-@media only screen and (max-width: 400px) {
-}
-
-@media only screen and (max-width: 320px) {
-}
+A list of media queries I use often. Can be used with min-width also for mobile-first layouts.
